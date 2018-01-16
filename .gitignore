@@ -11,3 +11,5 @@ spark-warehouse/
 target/
 src/main/resources/
 src/test/
+gemfirexd-interface-*.log
+BACKUPGFXD*rf
