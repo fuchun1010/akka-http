@@ -1,0 +1,13 @@
+.idea/
+BACKUPGFXD-DEFAULT-DISKSTORE.if
+BACKUPGFXD-DEFAULT-DISKSTORE_1.1.idxkrf
+BACKUPGFXD-DEFAULT-DISKSTORE_1.crf
+BACKUPGFXD-DEFAULT-DISKSTORE_1.drf
+BACKUPGFXD-DEFAULT-DISKSTORE_1.krf
+akkahttp.iml
+datadictionary/
+gemfirexd-interface.log
+spark-warehouse/
+target/
+src/main/resources/
+src/test/
